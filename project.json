@@ -1,0 +1,24 @@
+{
+  "overview": "CareerAI is a career-focused web app with a local AI that helps users discover career paths, analyze resumes, match jobs, and get mentor-style chat advice — all in-browser with no external services.",
+  "features": [
+    "Career quiz with personalized path recommendations",
+    "Resume analyzer with skill gap suggestions",
+    "Job matcher based on entered skills",
+    "AI mentor chat for job search and interview prep",
+    "Landing page with feature highlights",
+    "Lime-charcoal visual design throughout",
+    "Session-based state — no login or persistent storage required"
+  ],
+  "category": "career-productivity",
+  "tags": [
+    "career",
+    "ai",
+    "resume",
+    "job-search",
+    "chat",
+    "quiz",
+    "local-ai",
+    "react"
+  ],
+  "last_updated": "2026-04-15T05:54:47.805Z"
+}

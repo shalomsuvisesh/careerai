@@ -1,2 +1,3 @@
-# careerai
-Exported from Caffeine project: CareerAI
+## AI-themed website in React using JavaScript-only app code
+
+To run app build and run docker image: `docker build -t app . docker run -it --network host app`
